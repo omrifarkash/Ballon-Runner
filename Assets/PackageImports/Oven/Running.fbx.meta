@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: f08503295a7ad8648b412463a2cf11d6
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 8450808836658823645
+    second: Armature|Armature|Armature|ArmatureAction|Armature|ArmatureAction
+  - first:
+      74: -6201834280730877740
+    second: Armature|Armature|Armature|Armature|mixamo.com|Layer0|Armature|Armature|
+  - first:
+      74: -1438100579313877105
+    second: Armature|Armature|Armature|Dance|Armature|Dance
+  - first:
+      74: -9065197545344900969
+    second: Armature|Armature|Armature|Jumping|Armature|Jumping
+  - first:
+      74: -2424404078790802720
+    second: Armature|Armature|Armature|Release|Armature|Release
+  - first:
+      74: 8791526243975580594
+    second: Armature|Armature|Armature|Running|Armature|Running
+  - first:
+      74: -3908598790589692577
+    second: Armature|BodyAction
+  - first:
+      74: 4562656219060671949
+    second: Armature|BodyAction.001
+  - first:
+      74: 3190307137340827646
+    second: Armature|HairAction
+  - first:
+      74: -9131760847165114872
+    second: Armature|HairAction.001
+  - first:
+      74: -3106119796622327843
+    second: Armature|left shoeAction
+  - first:
+      74: -8778048476439284288
+    second: Armature|left shoeAction.001
+  - first:
+      74: 3181734399873250026
+    second: Armature|right shoeAction
+  - first:
+      74: 2933969342567085919
+    second: Armature|right shoeAction.001
+  - first:
+      74: -872110166790540624
+    second: Armature|ShirtAction
+  - first:
+      74: 4021257123554197585
+    second: Armature|ShirtAction.001
+  - first:
+      74: 2739509528054171359
+    second: Armature|SkirtAction
+  - first:
+      74: -3388414735695236136
+    second: Armature|SkirtAction.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
